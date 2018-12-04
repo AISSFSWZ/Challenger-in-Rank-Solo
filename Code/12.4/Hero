@@ -1,0 +1,10 @@
+public class Hero{
+  String name;
+  float hp; //血量
+  float armor; //护甲
+  int moveSpeed; //移速
+  public static void main(String[]args){
+    Hero Leikesai = new hero();
+    Leikesai.name="雷克塞";
+  }
+ }
